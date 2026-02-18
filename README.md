@@ -12,6 +12,7 @@
 
 ## Current Projects
 
+- **[mymodels.dev](https://mymodels.dev)** - create your model stack profile and share it with your friends and so they always know what models you're using to plan, build, and debug.
 - **[Vercel VSCode/Cursor Theme](https://github.com/natemcgrady/vercel-vscode-theme)** - theme based on the Vercel code theme from ray.so
 - **[Cursor Rule Extension](https://github.com/natemcgrady/cursor-rule-extension)** - cursor extension that helps you quickly create Cursor project rules (.mdc files) from selected text or terminal output
 - **[Social Calendar](https://github.com/natemcgrady/social-calendar)** - project to learn React Native and Expo
