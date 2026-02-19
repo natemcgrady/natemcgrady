@@ -26,6 +26,7 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Revolutionizing Security Tool Interaction with AI Agents](https://www.nmcgrady.co/blog/revolutionizing-security-tool-interaction-with-ai-powered-chatbots)
 - [You Might Not Need an Agent](https://www.nmcgrady.co/blog/you-might-not-need-an-agent)
 - [Building an Infinite Scrolling Carousel with Tailwind CSS](https://www.nmcgrady.co/blog/building-infinite-scrolling-carousel)
 <!-- BLOG-POST-LIST:END -->
