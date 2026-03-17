@@ -12,10 +12,10 @@
 
 ## Current Projects
 
+- **[agent-tool-generator](https://github.com/natemcgrady/agent-tool-generator)** - A CLI tool that generates type-safe AI SDK agent tools from OpenAPI and Swagger specifications complete with Zod schemas and auth handling.
 - **[mymodels.dev](https://mymodels.dev)** - create your model stack profile and share it with your friends and so they always know what models you're using to plan, build, and debug.
 - **[Vercel VSCode/Cursor Theme](https://github.com/natemcgrady/vercel-vscode-theme)** - theme based on the Vercel code theme from ray.so
 - **[Cursor Rule Extension](https://github.com/natemcgrady/cursor-rule-extension)** - cursor extension that helps you quickly create Cursor project rules (.mdc files) from selected text or terminal output
-- **[Social Calendar](https://github.com/natemcgrady/social-calendar)** - project to learn React Native and Expo
 - **[LockedIn](https://github.com/natemcgrady/lockedin-dev)** - are you locked in?
 - **[TechStacker](https://github.com/natemcgrady/techstacker)** - fork of ray.so, but for sharing images of your tech stack
 
