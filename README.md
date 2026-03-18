@@ -19,9 +19,6 @@
 - **[LockedIn](https://github.com/natemcgrady/lockedin-dev)** - are you locked in?
 - **[TechStacker](https://github.com/natemcgrady/techstacker)** - fork of ray.so, but for sharing images of your tech stack
 
-## GitHub Activity
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/natemcgrady)
 
 ## Latest Blog Posts
 
